@@ -1,0 +1,6 @@
+# node_modules contains assets
+# the folder can become too large, making it
+#   cumbersome to track on github
+# since assets will be processed/included by webpack
+#   automatically, the folder is ignored
+node_modules
